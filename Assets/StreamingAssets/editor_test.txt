@@ -1,0 +1,43 @@
+{
+	"name": "words",
+	"graphs": [{
+		"name": "graph name",
+		"nodes": {
+		"74671":{
+			"$type": "StoryNodeData, Assembly-CSharp",
+			"Name": "a",
+			"Description": null,
+			"UnlockKey": null,
+			"Requirement": null,
+			"id": 74671,
+			"x": 741,
+			"y": 1006
+		}, "4863":{
+			"$type": "StoryNodeData, Assembly-CSharp",
+			"Name": "b",
+			"Description": null,
+			"UnlockKey": null,
+			"Requirement": null,
+			"id": 4863,
+			"x": 1044,
+			"y": 1447
+		}, "98872":{
+			"$type": "StoryNodeData, Assembly-CSharp",
+			"Name": "c",
+			"Description": null,
+			"UnlockKey": null,
+			"Requirement": null,
+			"x": 707,
+			"y": 1907
+		}},
+		"edges": [{
+			"$type": "ConnectionData, Assembly-CSharp",
+			"UnlockKey": null,
+			"Requirement": null,
+			"direction": 0,
+			"id": 741500,
+			"source": "74671",
+			"target": "4863"
+		}]
+	}]
+}
